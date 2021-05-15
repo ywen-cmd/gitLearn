@@ -1,2 +1,0 @@
-write some info in master branch
-push into github
