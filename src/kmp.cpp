@@ -3,6 +3,8 @@
 #include<memory.h>
 using namespace std;
 
+//the line test .gitignore
+
 //fd eda:ywen
 void getNext(int* next, const string& s) {
     int j = -1;
