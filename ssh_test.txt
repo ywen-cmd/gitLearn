@@ -1,4 +1,0 @@
-this file is to test ssh method accessing .
-add in dev branch.
-Now ,i want to pull this file into Github.
-i wana modify some .
