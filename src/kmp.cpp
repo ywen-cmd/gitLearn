@@ -2,6 +2,8 @@
 #include<string>
 #include<memory.h>
 using namespace std;
+//for test ubuntu teminal 
+//add on 2021.5.30
 
 //fd eda:ywen
 void getNext(int* next, const string& s) {
